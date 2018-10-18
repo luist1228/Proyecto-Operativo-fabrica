@@ -10,5 +10,5 @@ package proyecto.operativos;
  * @author LuisM
  */
 public class Cronometro {
-    
+    ///hola
 }
